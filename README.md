@@ -16,7 +16,7 @@ We will use Love Calculator API avaiable on Rapid API. Before using the Love Cal
 <li>Press Signup button on top right corner and provide your details</li>
 <li>After successfully signup, you will be able to test the endpoints on the Love Calculator API on the browser</li>
 <li>In the center section of the API documention, you will see X-RapidAPI-KEY, which you need in code</li>
-<li>Copy the API key and paste it in <strong>Calulate.js</srong>></li>
+<li>Copy the API key and paste it in <strong>Calulate.js</strong></li>
 </ol>
 
 <h5>Setting up code</h5>
@@ -37,7 +37,8 @@ A love calculator hybrid mobile application made using React Native and Love Cal
 User can enter his/her name along with his/her loving person to find the love percentage between each other.
 
 <h3>Dependencies</h3>
-The application is using <strong>React Native Lottie</strong> as a dependency to show animation in Result.js. Please follow this guide <link>https://github.com/react-native-community/lottie-react-native</link> to install the dependency successfully on your side
+The application is using <strong>React Native Lottie</strong> as a dependency to show animation in Result.js. 
+<br>Please follow this guide <link>https://github.com/react-native-community/lottie-react-native</link> to install the dependency successfully on your side
 
 <h3>Message</h3>
 If you like the repo. Please hit the star. Also if you want more animations, tutorials and help in any other aspect of React Native you can ping me on my Email or onmy Youtube Channel.
